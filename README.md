@@ -16,7 +16,7 @@ This repository contains my Python practice, exercises, and mini projects while 
 03-loops/           → Loop exercises
 04-functions/       → Functions practice
 05-oop/             → Object-Oriented Programming
-notebooks/          → Jupyter Notebook practice
+notebooks/          → Collab Notebook practice
 projects/           → Python projects
 ```
 ## Completed Practice
